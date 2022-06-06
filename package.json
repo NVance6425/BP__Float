@@ -1,0 +1,19 @@
+{
+  "name": "bp__float",
+  "version": "1.0.0",
+  "description": "Float Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NVance6425/BP__Float.git"
+  },
+  "author": "Nick Vance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NVance6425/BP__Float/issues"
+  },
+  "homepage": "https://github.com/NVance6425/BP__Float#readme"
+}
