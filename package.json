@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NVance6425/BP__Float/issues"
   },
-  "homepage": "https://github.com/NVance6425/BP__Float#readme"
+  "homepage": "https://github.com/NVance6425/BP__Float#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
 }
